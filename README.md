@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 I'm currently pursuing a Bachelor's degree in Computer Science at **Ho Chi Minh City University of Technology (HCMUT)**. With a strong academic foundation **(GPA: 3.9/4.0)**, I'm always working to level up both my theoretical knowledge and practical skills. I love building things, solving complex problems, and learning from every experience.
 
--   📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Y5x7UTZdU98Oa9dQ9CNNBpbgAkltQIB0/view?usp=sharing)
+-   📄 Know about my experiences [My resume]([https://drive.google.com/file/d/1Y5x7UTZdU98Oa9dQ9CNNBpbgAkltQIB0/view?usp=sharing](https://drive.google.com/file/d/1eiwMqSpFwBMN2AiSx3TLhYJCd7rlt0lL/view?usp=sharing))
 
 ## 🔧 Tech Stack
 
